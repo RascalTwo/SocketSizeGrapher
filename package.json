@@ -1,0 +1,10 @@
+{
+  "name": "Sockets",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rascal_Two <therealrascaltwo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "^1.6.7"
+  }
+}
