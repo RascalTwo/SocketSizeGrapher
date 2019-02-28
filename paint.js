@@ -9,7 +9,7 @@ var height = 200;
 var padding = 25;
 var dotRadius = 7.5;
 
-var canvas = new Canvas(width + padding * 2, height + padding * 2);
+var canvas = Canvas.createCanvas(width + padding * 2, height + padding * 2);
 var context = canvas.getContext("2d");
 
 context.beginPath();
